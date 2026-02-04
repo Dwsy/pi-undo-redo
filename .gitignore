@@ -12,3 +12,6 @@ dist/
 build/
 .vscode/
 .idea/
+
+# User config
+undo-redo-config.json
